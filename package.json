@@ -1,0 +1,29 @@
+{
+  "name": "observer",
+  "version": "0.0.0",
+  "description": "a simple implementation of observer",
+  "main": "observer.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:saidz/observer.git"
+  },
+  "keywords": [
+    "observer",
+    "event"
+  ],
+  "author": "saidz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saidz/observer/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "should": "~3.3.0"
+  }
+}
